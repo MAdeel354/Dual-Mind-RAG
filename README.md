@@ -33,3 +33,6 @@
 - Legal, medical, or enterprise RAG systems with structured PDFs  
 - Self-refining agents for knowledge-grounded responses
 - Alerts analysis
+
+## Catch
+Due to my system limitation, I only utilized deepseek 1.5B model which has very low performance. Please update it accordingly.
