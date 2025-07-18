@@ -32,12 +32,4 @@
 - Document-driven customer support bots  
 - Legal, medical, or enterprise RAG systems with structured PDFs  
 - Self-refining agents for knowledge-grounded responses
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/deepthink-rag.git
-   cd deepthink-rag
+- Alerts analysis
